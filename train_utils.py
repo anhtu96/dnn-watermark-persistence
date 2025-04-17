@@ -10,7 +10,6 @@ import time
 import wandb
 import math
 from copy import deepcopy
-from weights_diff import l2_diff
 from app import AdversarialParameterPerturbation
 from utils import ListLoader
 from models import ResNetCBN

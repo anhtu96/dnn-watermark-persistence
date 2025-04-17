@@ -1,2 +1,0 @@
-python main_extraction.py cfg/extraction/rowback_resnet_cifar10_unrelated.yml
-python main_extraction.py cfg/extraction/rowback_resnet_cifar10_unrelated_multi.yml

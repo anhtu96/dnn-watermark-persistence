@@ -13,6 +13,7 @@ from torch.utils.data import DataLoader
 from cleverhans.torch.attacks.fast_gradient_method import fast_gradient_method
 from PIL import Image, ImageFont, ImageDraw
 import utils
+import models
 from train_utils import Trainer, Evaluator
 
 

@@ -1,4 +1,6 @@
 # Persistence of Neural Network Watermarks
+This is the code for our paper "Persistence of Backdoor-based Watermarks for Neural Networks: A Comprehensive Evaluation", which is accepted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Please refer to our full paper [here](https://arxiv.org/abs/2501.02704).
+
 ## How to run the code
 To run end-to-end: 
 ```shell

@@ -1,7 +1,7 @@
 __pycache__/
 Attacks/
 checkpoints/
-data/
+/data/
 wandb/
 Nets/
 entangled-watermark/

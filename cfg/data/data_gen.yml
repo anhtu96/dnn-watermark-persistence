@@ -1,0 +1,24 @@
+dataset: cifar10
+data_path: data/CIFAR10
+recreate_folder: False
+regen_data: False
+
+trigger_size: 50
+finetune_size: 0.3
+val_size: 0
+
+trigger_type: unrelated
+label: all
+
+# new assigned label for triggers
+new_label: 0
+
+# for noise triggers
+noise: 0.15
+
+# for adversarial triggers
+model: ViT # for generating FGSM adv triggers
+epochs: 100
+use_pretrained: False
+
+seed: 20
